@@ -1,0 +1,7 @@
+== MIDI Piano
+
+This was a project for my Intro to Comp Sci II class, in which we learned Java. The actual assignment only included adding the white piano keys and rhythm, but I decided to really fix mine up for extra credit. Sound and rhythm is accomplished using the JFugue API and I didn’t have very good luck getting it to sound good (maybe it’s improved by now?). But this was a fun project and I really liked doing the GUI layout. And, although it can’t really keep a beat, it is pretty fun to play with.
+
+== License
+
+Distributed under the Apache License Version 2. See "license.txt" for more information.
